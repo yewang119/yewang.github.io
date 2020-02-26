@@ -14,6 +14,19 @@
       </tags>
   </entry>
   <entry>
+    <title><![CDATA[My First Post]]></title>
+    <url>%2F2018%2F04%2F20%2FPytorch-Test%2F</url>
+    <content type="text"><![CDATA[什么是MarkdownMarkdown1 是一种方便记忆、书写的纯文本标记语言，用户可以使用这些标记符号以最小的输入代价生成极富表现力的文档：譬如您正在阅读的这份文档。它使用简单的符号标记不同的标题，分割不同的段落，粗体 或者 斜体 某些文字。Markdown文件的后缀通常为.md。 Markdown在流畅的书写和印刷级的阅读体验之间找到了平衡。 $$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$$$\lim: \lim_{x\to 0}$$ 图片测试 视频测试 your browser does not support the video tag 优点 写作中添加简单符号即完成排版，所见即所得。让你专注于文字而不是排版。 格式转换方便，Markdown的文本你可以轻松转换为HTML、PDF等。 可以保存为纯文本。 几款好用的MarkDown编辑器可以结合这篇文章选择合适的编辑器 Sublime Text 3 本地 需安装Markdown插件 可快速生成HTML 若要支持实时预览需更多插件且效果不佳 Typora 本地 无需插件 可导出为带超链接的PDF，导出的html样式没有Sublime Text 3好 所见即所得 Cmd Markdown 国人出品，不开源 在线编辑，分屏实时预览 样式简约精美 导出为PDF等高级功能需要收费 StackEdit 国外出品，开源，Cmd Markdown的源头 在线编辑，分屏实时预览 样式简约精美 导出为PDF等高级功能需要收费 Sublime Text 3的Markdown配置配置主要参考以下两篇文章 文章1主要包含 注册Sublime Text 3 安装Package Control 关闭文件记忆设置颜色方案 文章2主要包含 安装Markdown Preview插件 快捷键设置 Alt+M预览 设置语法高亮和mathjax支持 浏览器预览HTML效果 打印成PDF 安装使用Markdown Editing 支持实时预览的插件OmniMarkupPreviewer 当已经安装完Markdown Editing后，如何在Sublime Text 3中改变颜色方案 按快捷键Ctrl+Shift+P,输入pcip,搜索一个color scheme安装。 安装完成后会弹出一个Package Control Messages窗口，或点击Preferences.Browse Packages,在Sublime Text 3\Installed Packages下解压刚才下载的颜色主题文件，找到其中的README.md，两种方式都可以得到激活scheme的设置代码。 1234&#123; "theme": "Spacegray.sublime-theme", "color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme"&#125; 在Preferences.Package Settings.Markdown Editing.Markdown GFM Settings-User中添加上方代码。 MathJax Basic Tutorial1.Markdown Version: Build 3143 Windows 64 bit ↩]]></content>
+      <categories>
+        <category>笔记</category>
+      </categories>
+      <tags>
+        <tag>Markdown</tag>
+        <tag>MathJax</tag>
+        <tag>TypeSetting</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2F2018%2F04%2F20%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. /## Quick Start### Create a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
